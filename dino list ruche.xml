@@ -7599,6 +7599,180 @@
       <tags />
       <placeholder>false</placeholder>
     </Creature>
+    <Creature>
+      <species>Aberrant Doedicurus</species>
+      <name>G00S003</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>27</int>
+        <int>29</int>
+        <int>24</int>
+        <int>31</int>
+        <int>21</int>
+        <int>34</int>
+        <int>33</int>
+        <int>199</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>11</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.97040637945970243</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>[PVE]HimaIia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>476b54cc-8379-4623-add4-4a260b158155</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-13T23:09:14.2820375+02:00</growingUntil>
+      <cooldownUntil>2018-09-13T23:09:14.2820375+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-13T23:09:11.9404779+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-13T23:09:14.2820375+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Doedicurus</species>
+      <name>G00S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>18</int>
+        <int>17</int>
+        <int>12</int>
+        <int>17</int>
+        <int>16</int>
+        <int>17</int>
+        <int>13</int>
+        <int>110</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>31</int>
+        <int>20</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.96584351141017044</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>[PVE]HimaIia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>aec0f369-448e-44be-965d-903d418d0462</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-13T23:09:42.5349294+02:00</growingUntil>
+      <cooldownUntil>2018-09-13T23:09:42.5349294+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-13T23:09:39.0948933+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-13T23:09:42.5349294+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Doedicurus</species>
+      <name>G00S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>15</int>
+        <int>24</int>
+        <int>40</int>
+        <int>36</int>
+        <int>28</int>
+        <int>30</int>
+        <int>33</int>
+        <int>206</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.9694684714596844</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>[PVE]HimaIia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>429ad75c-1429-4ded-977e-b54fd16d8c92</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-13T23:10:21.417853+02:00</growingUntil>
+      <cooldownUntil>2018-09-13T23:10:21.417853+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-13T23:10:16.2144312+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-13T23:10:21.417853+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
   </creatures>
   <creaturesValues />
   <multipliers>
