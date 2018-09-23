@@ -4846,7 +4846,7 @@
       <owner>Enki</owner>
       <imprinterName />
       <tribe>[PVE]HimaIia</tribe>
-      <server />
+      <server>Island</server>
       <note />
       <guid>9664b2d9-766d-4d56-8108-839d74dd5404</guid>
       <ARKID>0</ARKID>
@@ -4862,8 +4862,8 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2018-09-06T16:58:32.7610537+02:00</growingUntil>
-      <cooldownUntil>2018-09-06T16:58:32.7610537+02:00</cooldownUntil>
+      <growingUntil>2018-09-23T13:49:43.9273286+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:49:43.9273286+02:00</cooldownUntil>
       <domesticatedAt>2018-09-06T16:58:00.6792875+02:00</domesticatedAt>
       <addedToLibrary>2018-09-06T16:58:32.7610537+02:00</addedToLibrary>
       <neutered>false</neutered>
@@ -6154,7 +6154,7 @@
       <name>EG00S005</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>13</int>
         <int>17</int>
@@ -6444,7 +6444,7 @@
       <name>EG00S004</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>32</int>
         <int>27</int>
@@ -6618,7 +6618,7 @@
       <name>EG01S003</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>42</int>
         <int>32</int>
@@ -6818,7 +6818,7 @@
       <owner>vecegat</owner>
       <imprinterName />
       <tribe>[PVE]HimaIia</tribe>
-      <server>Aberration</server>
+      <server>Ragnarok</server>
       <note />
       <guid>60d9b322-3c33-4f19-b03a-f7b4b310f521</guid>
       <ARKID>0</ARKID>
@@ -6834,8 +6834,8 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2018-09-13T12:34:53.9329582+02:00</growingUntil>
-      <cooldownUntil>2018-09-13T12:34:53.9329582+02:00</cooldownUntil>
+      <growingUntil>2018-09-22T22:50:19.6336644+02:00</growingUntil>
+      <cooldownUntil>2018-09-22T22:50:19.6336644+02:00</cooldownUntil>
       <domesticatedAt>2018-09-13T12:30:53.2612208+02:00</domesticatedAt>
       <addedToLibrary>2018-09-13T12:34:53.9329582+02:00</addedToLibrary>
       <neutered>false</neutered>
@@ -6850,7 +6850,7 @@
       <name>VG00S007</name>
       <gender>Unknown</gender>
       <sex>Male</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>31</int>
         <int>30</int>
@@ -6908,7 +6908,7 @@
       <name>G00S001</name>
       <gender>Unknown</gender>
       <sex>Male</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>29</int>
         <int>33</int>
@@ -6966,7 +6966,7 @@
       <name>G00S002</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>34</int>
         <int>32</int>
@@ -7024,7 +7024,7 @@
       <name>G00S003</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>33</int>
         <int>30</int>
@@ -7082,7 +7082,7 @@
       <name>Patapouf</name>
       <gender>Unknown</gender>
       <sex>Male</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>23</int>
         <int>17</int>
@@ -7140,7 +7140,7 @@
       <name>VG02S001</name>
       <gender>Unknown</gender>
       <sex>Male</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>32</int>
         <int>32</int>
@@ -7197,8 +7197,8 @@
       <species>Rock Drake</species>
       <name>EG02S002</name>
       <gender>Unknown</gender>
-      <sex>Male</sex>
-      <status>Available</status>
+      <sex>Female</sex>
+      <status>Obelisk</status>
       <levelsWild>
         <int>42</int>
         <int>32</int>
@@ -7256,7 +7256,7 @@
       <name>VG02S003</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>13</int>
         <int>21</int>
@@ -7340,7 +7340,7 @@
       <owner>Enki</owner>
       <imprinterName />
       <tribe>[PVE]HimaIia</tribe>
-      <server>Aberration</server>
+      <server>Ragnarok</server>
       <note>EG01S003 PG00S006</note>
       <guid>a8796dfb-98f1-4876-9832-cef0ec2ba118</guid>
       <ARKID>0</ARKID>
@@ -7356,8 +7356,8 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2018-09-13T17:11:32.4006207+02:00</growingUntil>
-      <cooldownUntil>2018-09-13T17:11:32.4006207+02:00</cooldownUntil>
+      <growingUntil>2018-09-22T22:50:54.9832498+02:00</growingUntil>
+      <cooldownUntil>2018-09-22T22:50:54.9832498+02:00</cooldownUntil>
       <domesticatedAt>2018-09-13T17:10:12.2523159+02:00</domesticatedAt>
       <addedToLibrary>2018-09-13T17:11:32.4006207+02:00</addedToLibrary>
       <neutered>false</neutered>
@@ -8184,7 +8184,7 @@
       <name>EG01S001</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>29</int>
         <int>33</int>
@@ -8822,7 +8822,7 @@
       <name>EG03S004</name>
       <gender>Unknown</gender>
       <sex>Male</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>42</int>
         <int>41</int>
@@ -8996,7 +8996,7 @@
       <name>EG03S001</name>
       <gender>Unknown</gender>
       <sex>Female</sex>
-      <status>Available</status>
+      <status>Obelisk</status>
       <levelsWild>
         <int>31</int>
         <int>37</int>
@@ -9042,6 +9042,1862 @@
       <cooldownUntil>2018-09-16T14:14:53.3171692+02:00</cooldownUntil>
       <domesticatedAt>2018-09-16T14:14:43.0740521+02:00</domesticatedAt>
       <addedToLibrary>2018-09-16T14:14:53.3171692+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>EG02S001</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>29</int>
+        <int>33</int>
+        <int>33</int>
+        <int>36</int>
+        <int>19</int>
+        <int>46</int>
+        <int>37</int>
+        <int>233</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>8757b673-53dc-4ffc-beaf-131bfeed97a7</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:32:49.2307158+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:32:49.2307158+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:32:31.0532103+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:32:49.2307158+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>EG02S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>34</int>
+        <int>32</int>
+        <int>33</int>
+        <int>23</int>
+        <int>35</int>
+        <int>46</int>
+        <int>33</int>
+        <int>236</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>861d983e-eecd-4a69-acb7-3d924b0da17a</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:33:22.5624548+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:33:22.5624548+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:33:14.2181948+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:33:22.5624548+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>EG02S003</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>29</int>
+        <int>33</int>
+        <int>33</int>
+        <int>36</int>
+        <int>19</int>
+        <int>50</int>
+        <int>33</int>
+        <int>233</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>f1734031-374a-4325-bda4-fbafcdc10a7a</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:34:07.4017067+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:34:07.4017067+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:33:41.1835252+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:34:07.4017067+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>EG02S004</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>34</int>
+        <int>32</int>
+        <int>33</int>
+        <int>23</int>
+        <int>35</int>
+        <int>46</int>
+        <int>33</int>
+        <int>236</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>a0fc0a74-0fea-415d-92dc-b7f27df7812f</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:35:55.130274+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:35:55.130274+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:35:45.1287848+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:35:55.130274+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Ankylosaurus</species>
+      <name>PG02S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>33</int>
+        <int>28</int>
+        <int>35</int>
+        <int>20</int>
+        <int>25</int>
+        <int>38</int>
+        <int>31</int>
+        <int>210</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>59ae1997-45e9-4289-90d1-55c2a7606152</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:38:57.0989602+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:38:57.0989602+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:38:40.5346366+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:38:57.0989602+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Ankylosaurus</species>
+      <name>EG02S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>29</int>
+        <int>34</int>
+        <int>31</int>
+        <int>20</int>
+        <int>25</int>
+        <int>42</int>
+        <int>31</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>cdabea91-87ff-4eda-986d-651da810ee4e</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:43:27.8126016+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:43:27.8126016+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:42:56.8731212+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:43:27.8126016+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Ankylosaurus</species>
+      <name>EG02S003</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>29</int>
+        <int>34</int>
+        <int>31</int>
+        <int>20</int>
+        <int>25</int>
+        <int>42</int>
+        <int>31</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>7a314fd4-9ddd-42cc-ab19-c8381931598d</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T15:44:41.9588589+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T15:44:41.9588589+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T15:44:32.1508412+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T15:44:41.9588589+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>PG04S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>29</int>
+        <int>26</int>
+        <int>33</int>
+        <int>24</int>
+        <int>0</int>
+        <int>190</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>8de979cc-5488-4941-bc08-1761480f0829</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T19:10:20.6369352+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T19:10:20.6369352+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T19:09:51.4391654+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T19:10:20.6369352+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>PG04S002</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>31</int>
+        <int>36</int>
+        <int>25</int>
+        <int>35</int>
+        <int>38</int>
+        <int>25</int>
+        <int>0</int>
+        <int>190</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>327356ee-e81a-4388-893b-9ceb5f2d3b17</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T19:11:10.1201975+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T19:11:10.1201975+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T19:10:50.250007+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T19:11:10.1201975+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>PG04S003</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>29</int>
+        <int>26</int>
+        <int>34</int>
+        <int>37</int>
+        <int>0</int>
+        <int>204</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>f5fa8fa7-bc4e-4471-81c4-17729bf95340</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T19:13:06.2341098+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T19:13:06.2341098+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T19:12:54.9137415+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T19:13:06.2341098+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>PG04S004</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>25</int>
+        <int>35</int>
+        <int>46</int>
+        <int>37</int>
+        <int>0</int>
+        <int>221</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>faf2dbd2-3616-4c80-8bbc-10c1d0d57dfd</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T19:14:35.9496921+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T19:14:35.9496921+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T19:14:28.3230629+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T19:14:35.9496921+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>PG04S005</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>42</int>
+        <int>40</int>
+        <int>34</int>
+        <int>26</int>
+        <int>34</int>
+        <int>37</int>
+        <int>0</int>
+        <int>213</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>32671392-660a-44fd-a88c-e4638187a98a</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-18T19:15:17.075001+02:00</growingUntil>
+      <cooldownUntil>2018-09-18T19:15:17.075001+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-18T19:15:06.2476338+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-18T19:15:17.075001+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>25</int>
+        <int>30</int>
+        <int>46</int>
+        <int>37</int>
+        <int>0</int>
+        <int>216</int>
+      </levelsWild>
+      <levelsDom>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>a798d0c8-cfcd-4fd8-8f7a-2c8dc2d2e168</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:51:13.1357257+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:51:13.1357257+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:50:23.9440327+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:51:13.1357257+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>29</int>
+        <int>35</int>
+        <int>33</int>
+        <int>37</int>
+        <int>0</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>96f3044e-f2d8-4050-855a-0855089d4fd9</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:51:49.3523987+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:51:49.3523987+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:51:36.6680827+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:51:49.3523987+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S003</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>22</int>
+        <int>35</int>
+        <int>42</int>
+        <int>41</int>
+        <int>0</int>
+        <int>218</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>64e06492-5c62-4ba0-a36d-f52d77e1f46b</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:52:16.5517711+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:52:16.5517711+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:52:02.3573599+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:52:16.5517711+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>EG05S004</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>29</int>
+        <int>35</int>
+        <int>33</int>
+        <int>37</int>
+        <int>0</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>ae1772a0-4b8a-4ec3-a061-28bec6c48e27</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:53:34.5158265+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:53:34.5158265+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:53:01.7121339+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:53:34.5158265+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S005</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>40</int>
+        <int>34</int>
+        <int>26</int>
+        <int>34</int>
+        <int>37</int>
+        <int>0</int>
+        <int>213</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>39a53459-8bf9-4214-8193-9477da4893f9</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:55:41.3307374+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:55:41.3307374+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:55:12.6627703+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:55:41.3307374+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S006</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Obelisk</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>25</int>
+        <int>30</int>
+        <int>46</int>
+        <int>37</int>
+        <int>0</int>
+        <int>216</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>347eda38-f379-496f-8abd-53acc5f3297f</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:57:34.8833473+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:57:34.8833473+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:57:20.7253219+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:57:34.8833473+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>VG05S007</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>29</int>
+        <int>35</int>
+        <int>33</int>
+        <int>37</int>
+        <int>0</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>cb0f7d7c-c6e9-4351-b1a2-592fdc529e8f</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T00:59:09.9346942+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T00:59:09.9346942+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T00:58:13.9511393+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T00:58:23.065121+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Ankylosaurus</species>
+      <name>VG03S001</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>29</int>
+        <int>34</int>
+        <int>31</int>
+        <int>24</int>
+        <int>25</int>
+        <int>38</int>
+        <int>31</int>
+        <int>212</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Vecegat</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server />
+      <note />
+      <guid>81e50fbe-253e-41fe-9d3d-13a6b39e3b1b</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-20T11:44:53.3767761+02:00</growingUntil>
+      <cooldownUntil>2018-09-20T11:44:53.3767761+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-20T11:44:41.6489028+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-20T11:44:53.3767761+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>EG06S001</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>44</int>
+        <int>34</int>
+        <int>26</int>
+        <int>34</int>
+        <int>37</int>
+        <int>0</int>
+        <int>217</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>2a7a3aa7-8950-4dbe-bae4-e2f17e39ef20</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T08:38:12.3843385+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T08:38:12.3843385+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T08:33:26.1947908+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T08:33:50.5333226+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>EG06S002</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>25</int>
+        <int>35</int>
+        <int>46</int>
+        <int>41</int>
+        <int>0</int>
+        <int>225</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>0bcc8b0d-1099-40d4-9115-7bfdc8f34285</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T08:38:23.9928189+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T08:38:23.9928189+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T08:34:44.6049501+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T08:34:57.4641457+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>EG06S003</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>36</int>
+        <int>25</int>
+        <int>30</int>
+        <int>46</int>
+        <int>45</int>
+        <int>0</int>
+        <int>224</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>6b2c5fae-65bf-4669-a07c-5bc837be3f69</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T08:38:30.6424574+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T08:38:30.6424574+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T08:35:44.9618544+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T08:36:19.4148464+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rock Drake</species>
+      <name>EG06S004</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>42</int>
+        <int>44</int>
+        <int>34</int>
+        <int>26</int>
+        <int>34</int>
+        <int>37</int>
+        <int>0</int>
+        <int>217</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>e1640203-3f3e-40ce-89cb-0db0139c8800</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T08:38:48.2352523+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T08:38:48.2352523+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T08:36:46.1637709+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T08:37:14.1044081+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>EG02S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>39</int>
+        <int>30</int>
+        <int>32</int>
+        <int>32</int>
+        <int>36</int>
+        <int>30</int>
+        <int>238</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>ab434078-aedf-491c-aa0d-72f45169168e</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T10:55:10.2628874+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T10:55:10.2628874+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T10:54:17.1231095+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T10:55:10.2628874+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>EG02S002</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>22</int>
+        <int>32</int>
+        <int>20</int>
+        <int>40</int>
+        <int>26</int>
+        <int>36</int>
+        <int>26</int>
+        <int>202</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Aberration</server>
+      <note />
+      <guid>09fdaa38-e44e-45e7-b6f6-68d727a3cefa</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-21T10:56:12.8677232+02:00</growingUntil>
+      <cooldownUntil>2018-09-21T10:56:12.8677232+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-21T10:55:54.166397+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-21T10:56:12.8677232+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>Olympe</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>43</int>
+        <int>36</int>
+        <int>39</int>
+        <int>33</int>
+        <int>31</int>
+        <int>49</int>
+        <int>28</int>
+        <int>259</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>7427e46e-b910-4cbb-9c48-35f479965bd4</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:38:04.4098438+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:38:04.4098438+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:37:47.036263+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:38:04.4098438+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Direwolf</species>
+      <name>Skadi</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>34</int>
+        <int>32</int>
+        <int>28</int>
+        <int>36</int>
+        <int>29</int>
+        <int>30</int>
+        <int>33</int>
+        <int>222</int>
+      </levelsWild>
+      <levelsDom>
+        <int>8</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>8</int>
+        <int>27</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.98562789091897518</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>f93b3f2f-0e7f-41a4-ac3e-66e4cf6033cd</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:46:38.4866882+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:46:38.4856913+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:46:11.241118+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:46:38.4866882+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Direwolf</species>
+      <name>Odin</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>27</int>
+        <int>28</int>
+        <int>29</int>
+        <int>33</int>
+        <int>39</int>
+        <int>25</int>
+        <int>26</int>
+        <int>207</int>
+      </levelsWild>
+      <levelsDom>
+        <int>8</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>3</int>
+        <int>14</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.98565878805184881</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>2fe815dc-73ad-41ea-af4b-a989f00a8d90</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:46:52.1012034+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:46:52.1012034+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:46:45.9222782+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:46:52.1012034+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Direwolf</species>
+      <name>Freya</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>22</int>
+        <int>41</int>
+        <int>35</int>
+        <int>34</int>
+        <int>25</int>
+        <int>34</int>
+        <int>31</int>
+        <int>222</int>
+      </levelsWild>
+      <levelsDom>
+        <int>14</int>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+        <int>7</int>
+        <int>20</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.98560593332924928</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>2e3445b5-9d8c-4100-aa31-4a9e85eb07ec</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:47:40.1842922+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:47:40.1842922+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:47:29.8090949+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:47:40.1842922+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Direwolf</species>
+      <name>Freyr</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>30</int>
+        <int>35</int>
+        <int>28</int>
+        <int>37</int>
+        <int>36</int>
+        <int>26</int>
+        <int>23</int>
+        <int>215</int>
+      </levelsWild>
+      <levelsDom>
+        <int>6</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>3</int>
+        <int>26</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.985579067287891</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>4100ecd6-3d01-4fe7-8350-992b1987012d</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:48:51.4858341+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:48:51.4858341+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:48:43.430684+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:48:51.4858341+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Direwolf</species>
+      <name>Hel</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>28</int>
+        <int>30</int>
+        <int>35</int>
+        <int>26</int>
+        <int>32</int>
+        <int>31</int>
+        <int>41</int>
+        <int>223</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99012333504416794</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Island</server>
+      <note />
+      <guid>74576c1b-890a-4711-8bf4-2158998ab38a</guid>
+      <ARKID>0</ARKID>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-23T13:50:59.0706314+02:00</growingUntil>
+      <cooldownUntil>2018-09-23T13:50:59.0706314+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-23T13:50:51.644211+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-23T13:50:59.0706314+02:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -9106,7 +10962,7 @@
   <hiddenOwners />
   <hiddenServers />
   <dontShowTags />
-  <showDeads>true</showDeads>
+  <showDeads>false</showDeads>
   <showUnavailable>true</showUnavailable>
   <showNeutered>true</showNeutered>
   <showMutated>true</showMutated>
