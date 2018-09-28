@@ -10588,7 +10588,7 @@
       <owner>Enki</owner>
       <imprinterName />
       <tribe>Himalia</tribe>
-      <server>Island</server>
+      <server>Ragnarok</server>
       <note />
       <guid>7427e46e-b910-4cbb-9c48-35f479965bd4</guid>
       <ARKID>0</ARKID>
@@ -10604,8 +10604,8 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2018-09-23T13:38:04.4098438+02:00</growingUntil>
-      <cooldownUntil>2018-09-23T13:38:04.4098438+02:00</cooldownUntil>
+      <growingUntil>2018-09-26T16:10:35.2257652+02:00</growingUntil>
+      <cooldownUntil>2018-09-26T16:10:35.2257652+02:00</cooldownUntil>
       <domesticatedAt>2018-09-23T13:37:47.036263+02:00</domesticatedAt>
       <addedToLibrary>2018-09-23T13:38:04.4098438+02:00</addedToLibrary>
       <neutered>false</neutered>
@@ -11079,6 +11079,528 @@
       <tags />
       <placeholder>false</placeholder>
     </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>PG01S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>36</int>
+        <int>40</int>
+        <int>40</int>
+        <int>22</int>
+        <int>31</int>
+        <int>49</int>
+        <int>25</int>
+        <int>243</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Panchan</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>d60c5eed-5a56-49e9-b5e8-019b52c64875</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-26T09:44:04.3270408+02:00</growingUntil>
+      <cooldownUntil>2018-09-26T09:44:04.3270408+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-26T09:43:59.9518056+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-26T09:44:04.3270408+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>EG01S001</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>36</int>
+        <int>40</int>
+        <int>40</int>
+        <int>22</int>
+        <int>31</int>
+        <int>49</int>
+        <int>25</int>
+        <int>243</int>
+      </levelsWild>
+      <levelsDom>
+        <int>8</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>24a4fdc2-0d3a-489e-a1d6-151f6aec4691</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-26T09:44:59.649685+02:00</growingUntil>
+      <cooldownUntil>2018-09-26T09:44:59.649685+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-26T09:44:40.641101+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-26T09:44:59.649685+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Sabertooth</species>
+      <name>EG03S002</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>41</int>
+        <int>41</int>
+        <int>21</int>
+        <int>39</int>
+        <int>36</int>
+        <int>39</int>
+        <int>49</int>
+        <int>266</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>3c84adeb-e54c-419a-9b5f-07c6e3646b51</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-28T11:32:54.440198+02:00</growingUntil>
+      <cooldownUntil>2018-09-28T11:32:54.440198+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-27T12:09:41.5679147+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-27T12:09:53.1194403+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>EG02S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>43</int>
+        <int>36</int>
+        <int>40</int>
+        <int>33</int>
+        <int>31</int>
+        <int>49</int>
+        <int>25</int>
+        <int>257</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>f77e0c62-9c63-4f9a-b680-0ca1e4ffa424</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-27T21:09:49.2903607+02:00</growingUntil>
+      <cooldownUntil>2018-09-27T21:09:49.2903607+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-27T21:09:30.3530525+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-27T21:09:49.2903607+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>EG02S003</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>43</int>
+        <int>36</int>
+        <int>40</int>
+        <int>33</int>
+        <int>31</int>
+        <int>49</int>
+        <int>25</int>
+        <int>257</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>9f34b640-3dcc-411e-9dbf-8e5b9788ebc8</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-27T21:10:59.9786656+02:00</growingUntil>
+      <cooldownUntil>2018-09-27T21:10:59.9786656+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-27T21:10:25.1506951+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-27T21:10:59.9786656+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Therizinosaur</species>
+      <name>EG03S002</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>53</int>
+        <int>40</int>
+        <int>35</int>
+        <int>21</int>
+        <int>41</int>
+        <int>44</int>
+        <int>31</int>
+        <int>265</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>5e705864-8855-467e-ad99-c02eac4a24f8</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-28T11:28:00.5634435+02:00</growingUntil>
+      <cooldownUntil>2018-09-28T11:28:00.5624463+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-28T11:27:40.5842925+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-28T11:28:00.5634435+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Therizinosaur</species>
+      <name>EG03S001</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>51</int>
+        <int>38</int>
+        <int>35</int>
+        <int>21</int>
+        <int>41</int>
+        <int>44</int>
+        <int>31</int>
+        <int>261</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>ea0b7064-b96b-4dd0-8040-07ebfcdf1787</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-28T11:28:38.7786262+02:00</growingUntil>
+      <cooldownUntil>2018-09-28T11:28:38.7786262+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-28T11:28:27.6749451+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-28T11:28:38.7786262+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Sabertooth</species>
+      <name>EG02S002</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>41</int>
+        <int>29</int>
+        <int>21</int>
+        <int>39</int>
+        <int>36</int>
+        <int>39</int>
+        <int>49</int>
+        <int>254</int>
+      </levelsWild>
+      <levelsDom>
+        <int>3</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>4</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>5f8f3045-ccd2-4a27-a9ed-56f55ed77d46</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-28T11:30:41.5269887+02:00</growingUntil>
+      <cooldownUntil>2018-09-28T11:30:41.5269887+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-28T11:30:26.7637089+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-28T11:30:41.5269887+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
+    <Creature>
+      <species>Sabertooth</species>
+      <name>EG03S001</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>41</int>
+        <int>41</int>
+        <int>21</int>
+        <int>39</int>
+        <int>36</int>
+        <int>39</int>
+        <int>49</int>
+        <int>266</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>1</imprintingBonus>
+      <owner>Enki</owner>
+      <imprinterName />
+      <tribe>Himalia</tribe>
+      <server>Ragnarok</server>
+      <note />
+      <guid>f1e9c114-44a8-467d-8fdb-42d2d6b43aaa</guid>
+      <ARKID>0</ARKID>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-09-28T11:33:18.5564496+02:00</growingUntil>
+      <cooldownUntil>2018-09-28T11:33:18.5564496+02:00</cooldownUntil>
+      <domesticatedAt>2018-09-28T11:33:00.7870469+02:00</domesticatedAt>
+      <addedToLibrary>2018-09-28T11:33:18.5564496+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <placeholder>false</placeholder>
+    </Creature>
   </creatures>
   <creaturesValues />
   <multipliers>
@@ -11154,14 +11676,14 @@
   <tamingSpeedMultiplier>5</tamingSpeedMultiplier>
   <tamingFoodRateMultiplier>1</tamingFoodRateMultiplier>
   <MatingIntervalMultiplier>1</MatingIntervalMultiplier>
-  <EggHatchSpeedMultiplier>1</EggHatchSpeedMultiplier>
+  <EggHatchSpeedMultiplier>3</EggHatchSpeedMultiplier>
   <BabyMatureSpeedMultiplier>3</BabyMatureSpeedMultiplier>
   <BabyFoodConsumptionSpeedMultiplier>1</BabyFoodConsumptionSpeedMultiplier>
   <babyCuddleIntervalMultiplierEvent>1</babyCuddleIntervalMultiplierEvent>
   <tamingSpeedMultiplierEvent>7</tamingSpeedMultiplierEvent>
   <tamingFoodRateMultiplierEvent>1</tamingFoodRateMultiplierEvent>
   <MatingIntervalMultiplierEvent>1</MatingIntervalMultiplierEvent>
-  <EggHatchSpeedMultiplierEvent>1</EggHatchSpeedMultiplierEvent>
+  <EggHatchSpeedMultiplierEvent>5</EggHatchSpeedMultiplierEvent>
   <BabyMatureSpeedMultiplierEvent>5</BabyMatureSpeedMultiplierEvent>
   <BabyFoodConsumptionSpeedMultiplierEvent>1</BabyFoodConsumptionSpeedMultiplierEvent>
   <singlePlayerSettings>false</singlePlayerSettings>
